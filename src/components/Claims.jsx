@@ -16,9 +16,8 @@ export default function Claims() {
              <div className="d-flex align-items-md-center">
             <h4>Storm damage covered by insurance? We guide you through every step, from inspection to approval to repair completion.</h4>
             </div>
-               <div className="d-flex gap-5 align-items-center">
-            <Button text="Learn More" type="hover1" style={{background: '#dadad9'}} className="border border-2"/>
-            <a href="/" className='d-flex align-items-center gap-3'>Arrow <i class="fa-solid fa-chevron-right"></i></a>
+               <div className="d-flex gap-2 align-items-center">
+            <Button text="Learn More" type="hover1" style={{background: '#dadad9'}} className="border border-2"/><i class="fa-solid fa-chevron-right"></i>
           </div>
              </div>
              <div className="d-flex align-items-center justify-content-center gap-3 mt-4">

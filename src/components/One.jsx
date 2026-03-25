@@ -12,9 +12,9 @@ export default function One() {
                             <h6 className='text-white'>Assessment</h6>
                             <div><h3 className='text-white'>Free damage inspection and documentation</h3></div>
                             <div className='pe-5'><h6 className='text-white'>We inspect your roof thoroughly and create detailed documentation for your insurance claim. This protects your coverage.</h6></div>
-                        <div className="d-flex gap-5 align-items-center">
+                        <div className="d-flex gap-2 align-items-center">
             <Button text="Schedule Now" type="hover1" style={{background: '#dadad9' }} className="border border-2"/>
-            <a href="/" className='d-flex align-items-center gap-3 text-white'>Arrow <i className="fa-solid fa-chevron-right"></i></a>
+            <i className="fa-solid fa-chevron-right"></i>
           </div>
                         </div>
                     </div>

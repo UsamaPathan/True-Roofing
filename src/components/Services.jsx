@@ -38,16 +38,10 @@ export default function Services() {
                     Done right.
                   </h6>
                 </div>
-                <div className="d-flex gap-5 align-items-center">
-                  <Button
-                    text="Learn More"
-                    type="hover1"
-                    style={{ background: "#dadad9" }}
-                    className="border border-2"
-                  />
-                  <a href="/" className="d-flex align-items-center gap-3">
-                    Arrow <i className="fa-solid fa-chevron-right"></i>
-                  </a>
+                <div className="d-flex gap-2 align-items-center">
+                             <Button text="Learn More" type="hover1" style={{background: '#dadad9' }} className="border border-2"/> <i className="fa-solid fa-chevron-right"></i>
+
+                  
                 </div>
               </div>
             </div>
@@ -63,16 +57,10 @@ export default function Services() {
                     Hurricane or severe weather damaged your roof? We assess, document, and repair fast. Emergency service available now.
                   </h6>
                 </div>
-                <div className="d-flex gap-5 align-items-center">
-                  <Button
-                    text="Learn More"
-                    type="hover1"
-                    style={{ background: "#dadad9" }}
-                    className="border border-2"
-                  />
-                  <a href="/" className="d-flex align-items-center gap-3">
-                    Arrow <i className="fa-solid fa-chevron-right"></i>
-                  </a>
+                <div className="d-flex gap-2 align-items-center">
+                            <Button text="Learn More" type="hover1" style={{background: '#dadad9' }} className="border border-2"/> <i className="fa-solid fa-chevron-right"></i>
+
+                  
                 </div>
               </div>
               <div className="d-flex flex-column gap-3 align-items-start align-items-lg-start ps-2  border">
@@ -85,16 +73,10 @@ export default function Services() {
                     Storm damage covered by insurance? We handle inspections, documentation, and adjuster communication. You get fair coverage.
                   </h6>
                 </div>
-                <div className="d-flex gap-5 align-items-center">
-                  <Button
-                    text="Learn More"
-                    type="hover1"
-                    style={{ background: "#dadad9" }}
-                    className="border border-2"
-                  />
-                  <a href="/" className="d-flex align-items-center gap-3">
-                    Arrow <i className="fa-solid fa-chevron-right"></i>
-                  </a>
+                <div className="d-flex gap-2 align-items-center">
+                             <Button text="Learn More" type="hover1" style={{background: '#dadad9' }} className="border border-2"/> <i className="fa-solid fa-chevron-right"></i>
+
+                  
                 </div>
               </div>
               </div>

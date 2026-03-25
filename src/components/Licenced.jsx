@@ -16,9 +16,8 @@ export default function Licenced() {
              <div className="d-flex align-items-md-center">
             <h4>Florida Certified Roofing Contractor with license CCC1332991. Thirty years of experience protecting Central Florida homes and businesses.</h4>
             </div>
-               <div className="d-flex gap-5 align-items-center">
-            <Button text="Learn More" type="hover1" style={{background: '#dadad9'}} className="border border-2"/>
-            <a href="/" className='d-flex align-items-center gap-3'>Arrow <i class="fa-solid fa-chevron-right"></i></a>
+               <div className="d-flex gap-2 align-items-center">
+            <Button text="Learn More" type="hover1" style={{background: '#dadad9' }} className="border border-2"/> <i className="fa-solid fa-chevron-right"></i>
           </div>
              </div>
              <div className="d-flex align-items-center justify-content-center gap-3 mt-4">

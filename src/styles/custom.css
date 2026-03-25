@@ -166,7 +166,7 @@ letter-spacing: 0%;
   padding-top: 100px;
   border-color: #f6f6f5;
   border-radius: 20px;
-  padding-bottom: 100px;
+  padding-bottom: 128px;
 }
 /* Claims Section */
 .Claims {
@@ -184,7 +184,7 @@ letter-spacing: 0%;
   border: 1px solid #eee;
   text-align: left;
   transition: 0.3s;
-height: 400px !important;
+height: 300px !important;
 }
 
 .review-card:hover {
