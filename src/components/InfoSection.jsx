@@ -158,8 +158,8 @@ const InfoSection = () => {
           <a href="/">Schedule your free inspection</a>
         </div>
         <div className="d-flex align-items-lg-center gap-3">
-          <a href="/" className="d-flex gap-3"><figure><img src={call} alt="" /></figure>Button</a>
-                    <a href="/" className="d-flex gap-3"><figure><img src={Vector} alt="" /></figure>Button</a>
+          <a href="/" className="d-flex gap-3"><figure><img src={call} alt="" /></figure></a>
+                    <a href="/" className="d-flex gap-3"><figure><img src={Vector} alt="" /></figure></a>
         </div>
       </div>
       </div>

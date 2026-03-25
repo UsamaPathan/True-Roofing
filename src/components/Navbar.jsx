@@ -28,17 +28,17 @@ function Navbar() {
         <div className="collapse navbar-collapse d-none d-lg-flex">
           <ul className="navbar-nav me-auto gap-3">
             <li className="nav-item">
-              <a className="nav-link" href="/">
+              <a className="nav-link" href="#">
                 Home
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/">
+              <a className="nav-link" href="#">
                 Services
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/">
+              <a className="nav-link" href="#">
                 Locations
               </a>
             </li>
