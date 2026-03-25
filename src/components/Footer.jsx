@@ -9,7 +9,7 @@ export default function Footer() {
       <section className="Footer">
         <div className="container">
             <div className="border pt-5  pb-5 d-flex">
-          <div className="row g-5">
+          <div className="row g-5 w-100">
               <div className="col-md-6 col-12">
                 <div className="d-flex flex-column gap-3 ps-3">
                   <figure>
