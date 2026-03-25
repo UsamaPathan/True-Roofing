@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/True-Roofing/static/css/main.65551ae0.css",
-    "main.js": "/True-Roofing/static/js/main.d92999a5.js",
+    "main.css": "/True-Roofing/static/css/main.ee48eb87.css",
+    "main.js": "/True-Roofing/static/js/main.11375b55.js",
     "static/js/453.537766b8.chunk.js": "/True-Roofing/static/js/453.537766b8.chunk.js",
     "static/media/urgent.png": "/True-Roofing/static/media/urgent.97fdfb2bcb301968bc2b.png",
     "static/media/HeroImage.png": "/True-Roofing/static/media/HeroImage.295c732cb82b824d90a3.png",
     "static/media/services.png": "/True-Roofing/static/media/services.83e6e6072a5ab7858f44.png",
     "static/media/claim.png": "/True-Roofing/static/media/claim.152955e707c665963237.png",
-    "static/media/logo.svg": "/True-Roofing/static/media/logo.89308524d30f2cd58fd04b17ea102710.svg",
     "index.html": "/True-Roofing/index.html",
     "static/media/roofing.svg": "/True-Roofing/static/media/roofing.9372a9a51fb1fffba486ba7029fa1303.svg",
-    "main.65551ae0.css.map": "/True-Roofing/static/css/main.65551ae0.css.map",
-    "main.d92999a5.js.map": "/True-Roofing/static/js/main.d92999a5.js.map",
+    "main.ee48eb87.css.map": "/True-Roofing/static/css/main.ee48eb87.css.map",
+    "main.11375b55.js.map": "/True-Roofing/static/js/main.11375b55.js.map",
     "453.537766b8.chunk.js.map": "/True-Roofing/static/js/453.537766b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65551ae0.css",
-    "static/js/main.d92999a5.js"
+    "static/css/main.ee48eb87.css",
+    "static/js/main.11375b55.js"
   ]
 }
