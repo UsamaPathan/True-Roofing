@@ -9,7 +9,7 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg bg-white shadow-sm">
         <div className="container-fluid">
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand" href="/True-Roofing/">
             <figure>
               <img src={logo} alt="" />
             </figure>
@@ -29,17 +29,17 @@ function Navbar() {
           <div className="collapse navbar-collapse d-none d-lg-flex">
             <ul className="navbar-nav me-auto gap-3">
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="/True-Roofing/">
                   Home
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="/True-Roofing/">
                   Services
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="/True-Roofing/">
                   Locations
                 </a>
               </li>
@@ -80,17 +80,17 @@ function Navbar() {
             <div className="offcanvas-body">
               <ul className="navbar-nav gap-3">
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/True-Roofing/">
                     Home
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/True-Roofing/">
                     Services
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/True-Roofing/">
                     Locations
                   </a>
                 </li>

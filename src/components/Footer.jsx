@@ -37,21 +37,21 @@ export default function Footer() {
               </div>
               <div className="col-md-3 col-6">
                 <ul className="d-flex flex-column gap-4">
-                    <a href="#"><li>Roof replacement</li></a>
-                    <a href="#"><li>Storm damage</li></a>
-                    <a href="#"><li>Insurance claims</li></a>
-                    <a href="#"><li>Free inspection</li></a>
-                    <a href="#"><li>Service areas</li></a>
+                    <a href="/True-Roofing/"><li>Roof replacement</li></a>
+                    <a href="/True-Roofing/"><li>Storm damage</li></a>
+                    <a href="/True-Roofing/"><li>Insurance claims</li></a>
+                    <a href="/True-Roofing/"><li>Free inspection</li></a>
+                    <a href="/True-Roofing/"><li>Service areas</li></a>
 
                     </ul>
               </div>
               <div className="col-md-3 col-6">
                  <ul className="d-flex flex-column gap-4">
-                    <a href="#"><li>About us</li></a>
-                    <a href="#"><li>Contact us</li></a>
-                    <a href="#"><li>Testimonials</li></a>
-                    <a href="#"><li>Gallery</li></a>
-                    <a href="#"><li>FAQ</li></a>
+                    <a href="/True-Roofing/"><li>About us</li></a>
+                    <a href="/True-Roofing/"><li>Contact us</li></a>
+                    <a href="/True-Roofing/"><li>Testimonials</li></a>
+                    <a href="/True-Roofing/"><li>Gallery</li></a>
+                    <a href="/True-Roofing/"><li>FAQ</li></a>
 
                     </ul>
               </div>
@@ -62,9 +62,9 @@ export default function Footer() {
         <div className="container d-flex justify-content-between flex-wrap gap-4">
           <p className="mb-0 text-white">© 2025 TruePoint Roofing. All rights reserved.</p>
          <div className="d-flex gap-2 ">
-            <a href="#" className="text-white">Privacy policy</a>
-         <a href="#" className="text-white">Terms of service</a>
-         <a href="#" className="text-white">Cookies settings</a>
+            <a href="/True-Roofing/" className="text-white">Privacy policy</a>
+         <a href="/True-Roofing/" className="text-white">Terms of service</a>
+         <a href="/True-Roofing/" className="text-white">Cookies settings</a>
          </div>
 
         </div>

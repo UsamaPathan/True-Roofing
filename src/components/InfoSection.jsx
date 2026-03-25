@@ -155,11 +155,11 @@ const InfoSection = () => {
       <div className="inspection d-flex justify-content-between align-items-md-center ">
         <div className="d-flex align-items-lg-center gap-2">
           <h6>Need a roof inspection?</h6>
-          <a href="/">Schedule your free inspection</a>
+          <a href="/True-Roofing/">Schedule your free inspection</a>
         </div>
         <div className="d-flex align-items-lg-center gap-3">
-          <a href="/" className="d-flex gap-3"><figure><img src={call} alt="" /></figure></a>
-                    <a href="/" className="d-flex gap-3"><figure><img src={Vector} alt="" /></figure></a>
+          <a href="/True-Roofing/" className="d-flex gap-3"><figure><img src={call} alt="" /></figure></a>
+                    <a href="/True-Roofing/" className="d-flex gap-3"><figure><img src={Vector} alt="" /></figure></a>
         </div>
       </div>
       </div>
