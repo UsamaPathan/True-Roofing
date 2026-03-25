@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "../assets/images/logo.svg";
+import footer from "../assets/images/footer.png";
 import Button from "./Button";
 import InfoSection from "./InfoSection";
 
@@ -10,8 +10,9 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg bg-white shadow-sm">
       <div className="container-fluid">
         <a className="navbar-brand" href="/">
-          <img src={logo} alt="Logo" height="40" />
-        </a>
+ <figure>
+                    <img src={footer} alt="" />
+                  </figure>        </a>
 
         <button
           className="navbar-toggler d-lg-none"
