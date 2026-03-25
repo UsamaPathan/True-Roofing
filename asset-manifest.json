@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65551ae0.css",
+    "main.js": "/static/js/main.69cddce7.js",
+    "static/js/453.537766b8.chunk.js": "/static/js/453.537766b8.chunk.js",
+    "static/media/urgent.png": "/static/media/urgent.97fdfb2bcb301968bc2b.png",
+    "static/media/HeroImage.png": "/static/media/HeroImage.295c732cb82b824d90a3.png",
+    "static/media/services.png": "/static/media/services.83e6e6072a5ab7858f44.png",
+    "static/media/claim.png": "/static/media/claim.152955e707c665963237.png",
+    "static/media/logo.svg": "/static/media/logo.89308524d30f2cd58fd04b17ea102710.svg",
+    "index.html": "/index.html",
+    "static/media/roofing.svg": "/static/media/roofing.9372a9a51fb1fffba486ba7029fa1303.svg",
+    "main.65551ae0.css.map": "/static/css/main.65551ae0.css.map",
+    "main.69cddce7.js.map": "/static/js/main.69cddce7.js.map",
+    "453.537766b8.chunk.js.map": "/static/js/453.537766b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65551ae0.css",
+    "static/js/main.69cddce7.js"
+  ]
+}
