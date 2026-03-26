@@ -1,20 +1,27 @@
 {
   "files": {
-    "main.css": "/True-Roofing/static/css/main.99cce226.css",
-    "main.js": "/True-Roofing/static/js/main.33435fc0.js",
+    "main.css": "/True-Roofing/static/css/main.884ef583.css",
+    "main.js": "/True-Roofing/static/js/main.738dc30a.js",
     "static/js/453.537766b8.chunk.js": "/True-Roofing/static/js/453.537766b8.chunk.js",
     "static/media/urgent.png": "/True-Roofing/static/media/urgent.97fdfb2bcb301968bc2b.png",
+    "static/media/gallery1.png": "/True-Roofing/static/media/gallery1.25f151134f11cd75a56f.png",
     "static/media/HeroImage.png": "/True-Roofing/static/media/HeroImage.295c732cb82b824d90a3.png",
     "static/media/services.png": "/True-Roofing/static/media/services.83e6e6072a5ab7858f44.png",
     "static/media/claim.png": "/True-Roofing/static/media/claim.152955e707c665963237.png",
+    "static/media/Tab.png": "/True-Roofing/static/media/Tab.1b990b7d9f968022e6c9.png",
+    "static/media/gallery3.png": "/True-Roofing/static/media/gallery3.889be8b1c6887edbf61a.png",
+    "static/media/gallery4.png": "/True-Roofing/static/media/gallery4.7dc6fc9b2928752c7828.png",
+    "static/media/card2.png": "/True-Roofing/static/media/card2.f14ec8df4a0a867ada88.png",
+    "static/media/gallery2.png": "/True-Roofing/static/media/gallery2.34d52ccadf1fd15b4d8b.png",
+    "static/media/certificate.jpg": "/True-Roofing/static/media/certificate.d20a67794600453ec6a9.jpg",
     "index.html": "/True-Roofing/index.html",
     "static/media/roofing.svg": "/True-Roofing/static/media/roofing.9372a9a51fb1fffba486ba7029fa1303.svg",
-    "main.99cce226.css.map": "/True-Roofing/static/css/main.99cce226.css.map",
-    "main.33435fc0.js.map": "/True-Roofing/static/js/main.33435fc0.js.map",
+    "main.884ef583.css.map": "/True-Roofing/static/css/main.884ef583.css.map",
+    "main.738dc30a.js.map": "/True-Roofing/static/js/main.738dc30a.js.map",
     "453.537766b8.chunk.js.map": "/True-Roofing/static/js/453.537766b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99cce226.css",
-    "static/js/main.33435fc0.js"
+    "static/css/main.884ef583.css",
+    "static/js/main.738dc30a.js"
   ]
 }
