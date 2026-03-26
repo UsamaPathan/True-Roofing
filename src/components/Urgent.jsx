@@ -24,7 +24,7 @@ export default function Urgent() {
                             <div><h3>Get emergency roof assessment</h3></div>
                             <div className='pe-5'><h6>Call 1-800-798-1636 now for immediate assistance. We're standing by to help.</h6></div>
                             <div className="d-flex align-items-center">
-                             <Button text="Learn More" type="hover1" style={{background: '#dadad9' }} className="border border-2"/> <i className="fa-solid fa-chevron-right"></i>
+                             <Button text="Call Now" type="hover1" style={{background: '#dadad9' }} className="border border-2"/> <i className="fa-solid fa-chevron-right"></i>
                        </div>
                         </div>
                     </div>

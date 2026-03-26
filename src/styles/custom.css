@@ -483,9 +483,7 @@ margin-left: 15px;
   .Services-Area .col-md-5 .align-items-md-start {
     gap: 20px !important;
   }
-  .Services-Area .col-md-5 .align-items-md-start .text-white {
-    text-align: center;
-  }
+  
   .FAQ .align-items-start {
     text-align: center;
   }
@@ -504,5 +502,17 @@ margin-left: 15px;
 }
 .Booking .align-items-md-center {
   text-align: center;
+}
+.Booking input {
+  margin-bottom: 15px;
+}
+.Services-Area .pe-5 {
+  padding-right: 0 !important;
+}
+.Services-Area .align-items-md-start {
+  padding-left: 20px;
+}
+.FAQ .mb-4 , .FAQ .mb-3 {
+  text-align: start;
 }
 } 

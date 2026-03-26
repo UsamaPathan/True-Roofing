@@ -58,7 +58,7 @@ export default function Services() {
                   </h6>
                 </div>
                 <div className="d-flex gap-2 align-items-center">
-                            <Button text="Learn More" type="hover1" style={{background: '#dadad9' }} className="border border-2"/> <i className="fa-solid fa-chevron-right"></i>
+                            <Button text="Get Help" type="hover1" style={{background: '#dadad9' }} className="border border-2"/> <i className="fa-solid fa-chevron-right"></i>
 
                   
                 </div>
@@ -74,7 +74,7 @@ export default function Services() {
                   </h6>
                 </div>
                 <div className="d-flex gap-2 align-items-center">
-                             <Button text="Learn More" type="hover1" style={{background: '#dadad9' }} className="border border-2"/> <i className="fa-solid fa-chevron-right"></i>
+                             <Button text="Start Now" type="hover1" style={{background: '#dadad9' }} className="border border-2"/> <i className="fa-solid fa-chevron-right"></i>
 
                   
                 </div>
