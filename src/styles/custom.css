@@ -185,6 +185,9 @@ letter-spacing: 0%;
 .Services img {
   width: 100%;
 }
+.Services figure {
+  margin-bottom: 12px;
+}
 .Services .align-items-lg-start {
   padding-top: 100px;
   border-color: #f6f6f5;
