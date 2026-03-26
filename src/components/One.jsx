@@ -5,10 +5,10 @@ export default function One() {
   return (
     <div>
         <section className="Claims">
-         <div className="border  border-2 mt-5 align-items-center">
+         <div className="border  border-2  align-items-center">
                 <div className="row">
                     <div className="col-md-6 col-12">
-                        <div className="d-flex flex-column gap-5 align-items-start pt-5 ps-5">
+                        <div className="d-flex flex-column gap-5 pb-2 align-items-start pt-5 ps-3">
                             <h6 className='text-white'>Assessment</h6>
                             <div><h3 className='text-white'>Free damage inspection and documentation</h3></div>
                             <div className='pe-5'><h6 className='text-white'>We inspect your roof thoroughly and create detailed documentation for your insurance claim. This protects your coverage.</h6></div>

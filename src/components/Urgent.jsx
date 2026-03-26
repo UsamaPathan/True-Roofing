@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import urgent from '../assets/images/urgent.png'
+import Button from "./Button";
 
 export default function Urgent() {
   return (
@@ -15,17 +16,20 @@ export default function Urgent() {
                
              </div>
         <section className="Licenced-Section">
-         <div className="border  border-2 mt-5 align-items-center">
+         <div className="border  border-2 mt-2 align-items-center">
                 <div className="row">
                     <div className="col-md-6 col-12">
                         <div className="d-flex flex-column gap-5 align-items-start pt-5">
-                            <h6>Local expertise</h6>
-                            <div><h3>Certified roofing contractor in Florida</h3></div>
-                            <div className='pe-5'><h6>State license CCC1332991 ensures every job meets Florida's highest standards. Your roof deserves certified hands.</h6></div>
+                            <h6>Emergency</h6>
+                            <div><h3>Get emergency roof assessment</h3></div>
+                            <div className='pe-5'><h6>Call 1-800-798-1636 now for immediate assistance. We're standing by to help.</h6></div>
+                            <div className="d-flex align-items-center">
+                             <Button text="Learn More" type="hover1" style={{background: '#dadad9' }} className="border border-2"/> <i className="fa-solid fa-chevron-right"></i>
+                       </div>
                         </div>
                     </div>
                     <div className="col-md-6 col-12">
-                        <figure><img src={urgent} alt="" /></figure>
+                        <figure className=''><img src={urgent} alt="" /></figure>
                     </div>
                 </div>
             </div>

@@ -38,8 +38,8 @@ export default function FAQ() {
   };
 
   return (
-    <div className="container py-5">
-        <div className="d-flex flex-column gap-3 align-items-start">
+    <div className="container FAQ py-5">
+        <div className="d-flex flex-column gap-3 align-items-center align-items-md-start">
       <h2 className="fw-bold mb-3">Questions</h2>
       <h4 className="mb-4">
         Find answers about roof replacement, storm damage, and insurance claims
@@ -69,7 +69,7 @@ export default function FAQ() {
         ))}
       </div>
 
-      <div className=" d-flex flex-column gap-4 align-items-start mt-5">
+      <div className=" d-flex flex-column gap-4 align-items-center align-items-md-start mt-5">
         <h2 className="fw-bold">Need more help?</h2>
         <h6 className="text-muted mb-3">
           Call us or schedule a free inspection

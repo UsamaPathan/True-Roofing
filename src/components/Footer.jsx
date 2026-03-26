@@ -1,5 +1,5 @@
 import React from "react";
-import footer from "../assets/images/footer.png";
+import logo from "../assets/images/logo.png";
 import { FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn, FaYoutube } from "react-icons/fa";
 
 
@@ -13,7 +13,7 @@ export default function Footer() {
               <div className="col-md-6 col-12">
                 <div className="d-flex flex-column gap-3 ps-3">
                   <figure>
-                    <img src={footer} alt="" />
+                    <img src={logo} alt="" />
                   </figure>
                   <div className="d-flex flex-column gap-2">
                     <p className="text-white">Address</p>

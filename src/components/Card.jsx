@@ -13,7 +13,7 @@ export default function Card() {
                     <div><h2 className='text-white'>Ready to protect your roof?</h2></div>
                     <div><h4 className='text-white'>Call 1-800-798-1636 or book your free inspection online today</h4></div>
                     <div className='d-flex align-items-center justify-content-center gap-3'>
-            <Button text="Learn More" type="hover2" style={{background: ''}} claName="border border-2"/>
+            <Button text="Call now" type="hover2" style={{background: ''}} claName="border border-2"/>
                         <a href="/True-Roofing/">Book Inspection</a>
                         </div> 
                     </div>

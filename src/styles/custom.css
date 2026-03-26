@@ -89,6 +89,9 @@ letter-spacing: -1%;
 a {
   color: rgba(13, 10, 5, 1);
 }
+figure {
+  margin: 0;
+}
 /* navbar styling */
 navbar a {
     font-family: Inter;
@@ -98,6 +101,9 @@ font-size: Text Sizes/Text Regular;
 line-height: 150%;
 letter-spacing: 0%;
 color: rgba(13, 10, 5, 1);
+}
+.navbar {
+  padding: 0;
 }
 .navbar img {
   width: 100%;
@@ -177,7 +183,7 @@ letter-spacing: 0%;
   padding-top: 100px;
   border-color: #f6f6f5;
   border-radius: 20px;
-  padding-bottom: 128px;
+  padding-bottom: 60px;
 }
 /* Claims Section */
 .Claims {
@@ -294,6 +300,8 @@ grid-template-rows: 300px 300px; /* top row, bottom row */
 
 .Booking input::placeholder {
     color: white;
+    border-bottom: 1px solid white;
+    padding-bottom: 2px;
 }
 .Booking .align-items-lg-center {
   width: 35%;
@@ -414,6 +422,12 @@ grid-template-rows: 300px 300px; /* top row, bottom row */
 .Licenced-Section .pt-5 {
 gap: 16px !important;
 }
+.Services .align-items-lg-start {
+  padding-top: 20px;
+}
+.Gallery {
+  padding: 20px 0;
+}
  .gallery {
     display: block;
   }
@@ -428,7 +442,6 @@ gap: 16px !important;
     height: auto;
   }
 
-  /* reset all custom positioning */
   .item1,
   .item2,
   .item3,
@@ -438,4 +451,29 @@ gap: 16px !important;
     height: auto;
     margin-top: 0;
   }
+  .Services-Area .col-md-5 .align-items-md-start {
+    gap: 20px !important;
+  }
+  .Services-Area .col-md-5 .align-items-md-start .text-white {
+    text-align: center;
+  }
+  .FAQ .align-items-start {
+    text-align: center;
+  }
+  .Booking {
+    padding: 60px 0;
+  }
+  .Booking .mb-0 {
+    padding: 0px 45px;
+}
+.Booking .align-items-lg-center {
+    width: 100%;
+    display: block !important;
+}
+.Booking Button {
+    width: 100%;
+}
+.Booking .align-items-md-center {
+  text-align: center;
+}
 } 

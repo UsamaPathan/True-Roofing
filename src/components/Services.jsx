@@ -47,7 +47,7 @@ export default function Services() {
             </div>
             <div className="col-md-6 col-12">
                 <div className="d-flex flex-column gap-5">
-                <div className="d-flex flex-column gap-3 align-items-start align-items-lg-start ps-2 border">
+                <div className="d-flex flex-column gap-4 align-items-start align-items-lg-start ps-2 border">
                 <figure><img src={storm} alt="" /></figure>
                 <div>
                   <h3>Storm damage repair</h3>
@@ -63,7 +63,7 @@ export default function Services() {
                   
                 </div>
               </div>
-              <div className="d-flex flex-column gap-3 align-items-start align-items-lg-start ps-2  border">
+              <div className="d-flex flex-column gap-4 align-items-start align-items-lg-start ps-2  border">
              <figure><img src={storm} alt="" /></figure>
                 <div>
                   <h3>Insurance claim help</h3>

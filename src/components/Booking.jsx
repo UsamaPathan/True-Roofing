@@ -13,7 +13,7 @@ export default function Booking() {
                         <input type="text"  placeholder='Enter Your Phone Number'style={{background: '#5a93c0'}}/>
                         <Button text="Schedule Now" type="hover2"  claName="border border-2"/>
                     </div>
-                    <div className='d-flex align-items-center justify-content-center'><p className='text-white'>By submitting this form you agree to our terms and privacy policy</p></div>
+                    <div className='d-flex align-items-md-center justify-content-center'><p className='text-white'>By submitting this form you agree to our terms and privacy policy</p></div>
                 </div>
             </div>
         </section>
