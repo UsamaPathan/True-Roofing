@@ -26,7 +26,7 @@ export default function Services() {
               <figure>
                 <img src={services} alt="" />
               </figure>
-              <div className="d-flex flex-column gap-3 align-items-start align-items-lg-start pt-5 ps-2  border">
+              <div className="d-flex flex-column gap-3 align-items-start align-items-lg-start align-items-md-start pt-5 ps-2  border">
                 <h6>Replacement</h6>
                 <div>
                   <h3>New roof installation</h3>
