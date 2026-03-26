@@ -104,6 +104,12 @@ function Navbar() {
                   </span>
                 </li>
               </ul>
+              
+              {showMenu && (
+                <div className="mt-3">
+                  <InfoSection />
+                </div>
+              )}
 
               <div className="mt-4 d-flex flex-column gap-2">
                 <Button text="Call now" type="hover1" />
