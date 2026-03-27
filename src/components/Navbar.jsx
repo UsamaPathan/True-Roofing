@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import logo from "../assets/images/logo.png";
 import Button from "./Button";
 import InfoSection from "./InfoSection";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   const [showMenu, setShowMenu] = useState(false);
@@ -9,11 +10,11 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg bg-white shadow-sm">
         <div className="container-fluid">
-          <a className="navbar-brand" href="/True-Roofing/">
+          <Link className="navbar-brand" to="/">
             <figure>
               <img src={logo} alt="" />
             </figure>
-          </a>
+          </Link>
 
           <button
             className="navbar-toggler d-lg-none"
@@ -29,14 +30,10 @@ function Navbar() {
           <div className="collapse navbar-collapse d-none d-lg-flex">
             <ul className="navbar-nav me-auto gap-3">
               <li className="nav-item">
-                <a className="nav-link" href="/True-Roofing/">
-                  Home
-                </a>
+                <Link to="/">Home</Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/True-Roofing/">
-                  Services
-                </a>
+                <Link to="/services">Services</Link>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="/True-Roofing/">
@@ -80,19 +77,19 @@ function Navbar() {
             <div className="offcanvas-body">
               <ul className="navbar-nav gap-3">
                 <li className="nav-item">
-                  <a className="nav-link" href="/True-Roofing/">
+                  <Link className="nav-link" to="/">
                     Home
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/True-Roofing/">
+                  <Link className="nav-link" to="/services">
                     Services
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/True-Roofing/">
+                  <Link className="nav-link" to="/locations">
                     Locations
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
                   <span
